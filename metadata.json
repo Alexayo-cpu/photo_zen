@@ -1,0 +1,5 @@
+{
+  "name": "PhotoZen",
+  "description": "A focused photo decluttering tool designed for quick sorting sessions. Upload a batch, swipe to sort (Up to delete, Left to keep, Down to favorite), and review your choices.",
+  "requestFramePermissions": []
+}
